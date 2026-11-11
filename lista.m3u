@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1,TCS Canal 2
-https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/playlist.m3u8
-#EXTINF:-1,TCS Canal 6
-https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/playlist.m3u8
-#EXTINF:-1,Canal 12
-https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/playlist.m3u8
-#EXTINF:-1,Canal 21 Megavisión
-https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
+#EXTINF:-1,Pluto 1 Pelicula
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8
